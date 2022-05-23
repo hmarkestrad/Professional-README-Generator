@@ -5,10 +5,7 @@
     <img src="https://img.shields.io/github/repo-size/hmarkestrad/Professional-README-Generator" />
     <img src="https://img.shields.io/github/languages/top/hmarkestrad/Professional-README-Generator"  />
     <img src="https://img.shields.io/github/issues/hmarkestrad/Professional-README-Generator" />
-    <img src="https://img.shields.io/github/last-commit/hmarkestrad/Professional-README-Generator" >
-</p>
-  
-<p align="center">
+    <img src="https://img.shields.io/github/last-commit/hmarkestrad/Professional-README-Generator" ></br>
     <img src="https://img.shields.io/badge/Javascript-blue" />
     <img src="https://img.shields.io/badge/jQuery-blue"  />
     <img src="https://img.shields.io/badge/-node.js-blue" />
