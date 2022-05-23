@@ -2,10 +2,10 @@
 <h1 align="center">Professional README.md Generator</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
-    <img src="https://img.shields.io/github/issues/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/README-generator" >
+    <img src="https://img.shields.io/github/repo-size/hmestrada/README-generator" />
+    <img src="https://img.shields.io/github/languages/top/hmestrada/README-generator"  />
+    <img src="https://img.shields.io/github/issues/hmestrada/README-generator" />
+    <img src="https://img.shields.io/github/last-commit/hmestrada/README-generator" >
 </p>
   
 <p align="center">
