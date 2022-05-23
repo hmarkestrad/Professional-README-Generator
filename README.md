@@ -2,19 +2,19 @@
 <h1 align="center">Professional README.md Generator</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/hmestrada/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/hmestrada/README-generator"  />
-    <img src="https://img.shields.io/github/issues/hmestrada/README-generator" />
-    <img src="https://img.shields.io/github/last-commit/hmestrada/README-generator" >
+    <img src="https://img.shields.io/github/repo-size/hmarkestrad/Professional-README-Generator" />
+    <img src="https://img.shields.io/github/languages/top/hmarkestrad/Professional-README-Generator"  />
+    <img src="https://img.shields.io/github/issues/hmarkestrad/Professional-README-Generator" />
+    <img src="https://img.shields.io/github/last-commit/hmarkestrad/Professional-README-Generator" >
 </p>
   
 <p align="center">
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/Javascript-blue" />
     <img src="https://img.shields.io/badge/jQuery-blue"  />
-    <img src="https://img.shields.io/badge/-node.js-green" />
-    <img src="https://img.shields.io/badge/-inquirer-red" >
-    <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
-    <img src="https://img.shields.io/badge/-json-orange" />
+    <img src="https://img.shields.io/badge/-node.js-blue" />
+    <img src="https://img.shields.io/badge/-inquirer-blue" >
+    <img src="https://img.shields.io/badge/-screencastify-blue" />
+    <img src="https://img.shields.io/badge/-json-blue" />
 </p>
    
 ## Description
