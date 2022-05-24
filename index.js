@@ -11,12 +11,17 @@ function promptUser(){
         {
             type: "input",
             name: "projectTitle",
-            message: "What is the project title?",
+            message: "What is the Github project title (exactly as it appears in github)?",
+        },
+        {
+            type: "input",
+            name: "fullname",
+            message: "What is the authors full name?",
         },
         {
             type: "input",
             name: "description",
-            message: "Write a brief description of your project: "
+            message: "Description of your project: "
         },
         {
             type: "input",
@@ -43,9 +48,41 @@ function promptUser(){
             ]
         },
         {
+            type: 'checkbox',
+            message: 'Select technologies used for the project',
+            name: 'technologies',
+            choices: 
+            [
+                {
+                name: 'json',
+                },
+                {
+                name: 'screencastify',
+                },
+                {
+                name: 'inquirer',
+                },
+                {
+                name: 'node.js',
+                },
+                {
+                name: 'jQuery',
+                },
+                {
+                name: 'Javascript',
+                },
+                {
+                name: 'css',
+                },
+                {
+                name: 'html5',
+                }
+            ]
+        },
+        {
             type: "input",
             name: "contributing",
-            message: "Who are the contributors of this projects?"
+            message: "Who are the contributors of this project?"
         },
         {
             type: "input",
@@ -65,7 +102,7 @@ function promptUser(){
         {
             type: "input",
             name: "email",
-            message: "Please enter your email: "
+            message: "Enter your email: "
         }
     ]);
 } 
@@ -78,7 +115,7 @@ function promptUser(){
         const generateContent = generateReadme(answers);
         // Write new README.md to dist directory
         await writeFileAsync('./dist/README.md', generateContent);
-        console.log('✔️  Successfully wrote to README.md');
+        console.log('Successfully wrote README.md');
     }   catch(err) {
         console.log(err);
     }
