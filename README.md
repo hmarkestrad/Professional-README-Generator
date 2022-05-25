@@ -49,7 +49,7 @@ Run the following command at the root of your project: npm init | npm install in
 To begin the README.md Generator test  type the following into a terminal: node test.js
 
 ## Screen Shot
-https://github.com/hmarkestrad/Professional-README-Generator/blob/f0aa83361da077c4e24ea12f8aa70b0b7f25a022/README.md
+(https://github.com/hmarkestrad/Professional-README-Generator/blob/ccaea6142146af69a06497c73cdcc7b96ea27b7c/Screen%20Shot.png)
 
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
