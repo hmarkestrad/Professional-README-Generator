@@ -45,7 +45,10 @@ To begin the README.md Generator test  type the following into a terminal: node 
 ## Screen Shot
 
 ![PORTFOLIO CHALLENGE - ESTRADA](https://github.com/hmarkestrad/Professional-README-Generator/blob/ccaea6142146af69a06497c73cdcc7b96ea27b7c/Screen%20Shot.png)
-
+  
+## Video Walk Though Link
+Google Drive Walkthrough: https://drive.google.com/file/d/17Gi2rCTH3bwgLFXmZfhe_RLcAvZ6f1S7/view?usp=sharing
+  
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
 Contact me with any questions: h.mark.estrada@gmail.com<br>
