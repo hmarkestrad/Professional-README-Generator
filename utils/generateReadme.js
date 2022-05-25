@@ -7,13 +7,7 @@ function generateReadme(answers) {
 <img src="https://img.shields.io/github/repo-size/${answers.username}/${answers.projectTitle}" />
 <img src="https://img.shields.io/github/languages/top/${answers.username}/${answers.projectTitle}"  />
 <img src="https://img.shields.io/github/issues/${answers.username}/${answers.projectTitle}" />
-<img src="https://img.shields.io/github/last-commit/${answers.username}/${answers.projectTitle}" ><br>
-    <img src="https://img.shields.io/badge/Javascript-blue" />
-    <img src="https://img.shields.io/badge/jQuery-blue"  />
-    <img src="https://img.shields.io/badge/-node.js-blue" />
-    <img src="https://img.shields.io/badge/-inquirer-blue" >
-    <img src="https://img.shields.io/badge/-screencastify-blue" />
-    <img src="https://img.shields.io/badge/-json-blue" />
+<img src="https://img.shields.io/github/last-commit/${answers.username}/${answers.projectTitle}" >
 </p>
   
 ## Description
