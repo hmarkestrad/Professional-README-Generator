@@ -48,6 +48,9 @@ This application is covered by the MIT license.
 Run the following command at the root of your project: npm init | npm install inquirer<br>
 To begin the README.md Generator test  type the following into a terminal: node test.js
 
+## Screen Shot
+https://github.com/hmarkestrad/Professional-README-Generator/blob/f0aa83361da077c4e24ea12f8aa70b0b7f25a022/README.md
+
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
 Contact me with any questions: h.mark.estrada@gmail.com<br>
