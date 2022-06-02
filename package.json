@@ -8,18 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpd61/README-generator.git"
+    "url": "git+https://github.com/hmarkestrad/Professional-README-Generator.git"
   },
   "author": "Mark Estrada",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jpd61/README-generator/issues"
+    "url": "https://github.com/hmarkestrad/Professional-README-Generator.git"
   },
-  "homepage": "https://github.com/jpd61/README-generator#readme",
-  "dependencies": {
-    "axios": "^0.21.2",
-    "inquirer": "^7.3.3",
-    "util": "^0.12.3"
-  },
+  "homepage": "https://github.com/hmarkestrad/Professional-README-Generator.git",
   "devDependencies": {}
 }
