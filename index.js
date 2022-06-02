@@ -1,11 +1,11 @@
-// Declaring the dependencies and variables
+//Dependencies and variables
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
 const generateReadme = require("./utils/generateReadme")
 const writeFileAsync = util.promisify(fs.writeFile);
 
-//Prompt the user questions to populate the README.md
+//User questions to populate the README.md
 function promptUser(){
     return inquirer.prompt([
         {
@@ -115,7 +115,7 @@ function promptUser(){
         const generateContent = generateReadme(answers);
         // Write new README.md to dist directory
         await writeFileAsync('./dist/README.md', generateContent);
-        console.log('Successfully wrote README.md');
+        console.log('Successfully created README.md');
     }   catch(err) {
         console.log(err);
     }
